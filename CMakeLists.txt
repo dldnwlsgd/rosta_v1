@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(rosta_v1))
+project(rosta_v1)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
